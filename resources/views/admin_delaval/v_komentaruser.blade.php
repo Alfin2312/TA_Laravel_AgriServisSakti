@@ -51,11 +51,7 @@
                     <td>{{ $data->pesan }}</td>
                     <td>
                         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delete{{ $data->id }}">
-<<<<<<< HEAD
-                            Delete
-=======
-                        <i class="fa fa-trash"></i>
->>>>>>> 62b6f2f (fix frontend admin, login dan register)
+                        <i class="icon fa fa-trash"></i>
                         </button>
                     </td>
                   </tr>
