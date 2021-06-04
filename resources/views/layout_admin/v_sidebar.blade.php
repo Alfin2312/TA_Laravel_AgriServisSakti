@@ -65,4 +65,7 @@
     .icon {
         font-style: normal;
     }
+    .r{
+        font-size: 20px;
+    }
 </style>
